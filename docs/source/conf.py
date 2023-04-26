@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'ALMAAI\'s clusters | user guide'
+copyright = '2023, Università di Bologna'
+author = 'Martina Baiardi'
 
 release = '0.1'
 version = '0.1.0'
